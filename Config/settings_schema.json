@@ -5,7 +5,7 @@
         "type": "text",
         "id": "tealium_account",
         "label": "Account",
-        "info": "Name of your acount"
+        "info": "Name of your account"
       },
       {
         "type": "text",
